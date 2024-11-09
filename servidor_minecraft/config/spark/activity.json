@@ -1,0 +1,93 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "PunchJD",
+      "uniqueId": "2c1f8795-6157-435b-8cd8-011c31d422b2"
+    },
+    "time": 1730650733617,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/KftER7I3Kh"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "PunchJD",
+      "uniqueId": "2c1f8795-6157-435b-8cd8-011c31d422b2"
+    },
+    "time": 1730606658544,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/CGiAqPlkzG"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "PunchJD",
+      "uniqueId": "2c1f8795-6157-435b-8cd8-011c31d422b2"
+    },
+    "time": 1730606375396,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/9QwmRJvlXP"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "PunchJD",
+      "uniqueId": "2c1f8795-6157-435b-8cd8-011c31d422b2"
+    },
+    "time": 1730605295190,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/utKSgtGcQB"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "PunchJD",
+      "uniqueId": "2c1f8795-6157-435b-8cd8-011c31d422b2"
+    },
+    "time": 1730605262232,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/jYueyFcVJl"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "PunchJD",
+      "uniqueId": "2c1f8795-6157-435b-8cd8-011c31d422b2"
+    },
+    "time": 1730605096592,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/DHHoECpwgY"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "PunchJD",
+      "uniqueId": "2c1f8795-6157-435b-8cd8-011c31d422b2"
+    },
+    "time": 1730604770282,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/TH7lubOJ1m"
+    }
+  }
+]
